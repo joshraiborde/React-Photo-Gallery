@@ -10,6 +10,7 @@ form {
 	}
 }
 
+/* input slot */
 form input {
 	padding: 14px;
 	border: 2px solid rgb(225, 225, 225);
@@ -18,13 +19,15 @@ form input {
 	font-size: 32px;
 }
 
+/* search button */
 form button {
+	background-color: rgb(14, 131, 39);
 	border: none;
 	border-radius: 11px;
 	font-size: 32px;
 	padding: 16px;
 }
-
+/* clear button */
 form button[type='button'] {
 	background-color: rgb(254, 80, 80);
 }
