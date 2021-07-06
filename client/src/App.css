@@ -12,7 +12,7 @@ form {
 
 form input {
 	padding: 14px;
-	border: 3px solid rgb(225, 225, 225);
+	border: 2px solid rgb(225, 225, 225);
 	border-radius: 10px;
 	box-sizing: border-box;
 	font-size: 32px;
@@ -20,7 +20,7 @@ form input {
 
 form button {
 	border: none;
-	border-radius: 10px;
+	border-radius: 11px;
 	font-size: 32px;
 	padding: 16px;
 }
