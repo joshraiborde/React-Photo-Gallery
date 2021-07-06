@@ -16,7 +16,7 @@ form input {
 	border: 2px solid rgb(225, 225, 225);
 	border-radius: 10px;
 	box-sizing: border-box;
-	font-size: 32px;
+	font-size: 30px;
 }
 
 /* search button */
@@ -24,7 +24,7 @@ form button {
 	background-color: rgb(14, 131, 39);
 	border: none;
 	border-radius: 11px;
-	font-size: 32px;
+	font-size: 30px;
 	padding: 16px;
 }
 /* clear button */

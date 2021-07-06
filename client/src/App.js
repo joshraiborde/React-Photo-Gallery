@@ -48,7 +48,7 @@ const App = () => {
           value={searchValue}
           onChange={(event)=> setSearchValue(event.target.value)}
           required="required" placeholder="Enter a search value..."></input>
-    <button type="submit">Search</button>
+    <button type="submit">Search Here</button>
     <button type="button" onClick={resetForm}>Clear</button>
     </form>
     <div className='image-grid'>
