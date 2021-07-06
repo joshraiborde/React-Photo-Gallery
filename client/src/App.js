@@ -47,7 +47,7 @@ const App = () => {
     <input 
           value={searchValue}
           onChange={(event)=> setSearchValue(event.target.value)}
-          required="required" placeholder="Enter a search here..."></input>
+          required="required" placeholder="Search here..."></input>
     <button type="submit">Search</button>
     <button type="button" onClick={resetForm}>Clear</button>
     </form>
